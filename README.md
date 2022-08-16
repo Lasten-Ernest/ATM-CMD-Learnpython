@@ -15,6 +15,7 @@ git clone https://github.com/Lasten-Ernest/ATM-CMD-Learnpython.git
 
 2) - Open the directory in Vscode 
 3) - then open terminal and run python atm.py
+4.) - Use 1234 as default password if the program asks for one.
     
 ## Author
 
